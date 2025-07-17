@@ -1,0 +1,116 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "image": "https://www.halliwelljones.co.uk/uploads/page-images/P90468218_lowRes_the-first-ever-bmw-m.jpg",
+      "make": "Suzuki",
+      "model": "Alto VXR",
+      "year": 2022,
+      "price": 2300000,
+      "location": "Karachi",
+      "condition": "Used"
+    },
+    {
+      "id": 2,
+      "image": "https://www.topgear.com/sites/default/files/images/cars-road-test/carousel/2016/11/6de4f62aba448e2de410c088d486f4f6/dynamic-exterior-105.jpg?w=976&h=549",
+      "make": "Suzuki",
+      "model": "WagonR VXL",
+      "year": 2021,
+      "price": 2500000,
+      "location": "Lahore",
+      "condition": "Used"
+    },
+    {
+      "id": 3,
+      "image": "https://www.topgear.com/sites/default/files/2024/12/54196859052_9249719e93_o.jpg?w=976&h=549",
+      "make": "Suzuki",
+      "model": "Cultus AGS",
+      "year": 2023,
+      "price": 3200000,
+      "location": "Islamabad",
+      "condition": "New"
+    },
+    {
+      "id": 4,
+      "image": "https://www.edmunds.com/assets/m/cs/blt95cf4db396c717b7/672bda61733622566a9c6cac/2024-toyota-camry-actf34.jpg",
+      "make": "Toyota",
+      "model": "Yaris",
+      "year": 2022,
+      "price": 3900000,
+      "location": "Rawalpindi",
+      "condition": "Used"
+    },
+    {
+      "id": 5,
+      "image": "https://media.drivingelectric.com/image/private/s--Fn61QQ6r--/f_auto,t_primary-image-desktop@1/v1698686429/drivingelectric/2023-10/Tesla%20Model%203%20facelift%201_awovfc.jpg",
+      "make": "Suzuki",
+      "model": "Swift GLX CVT",
+      "year": 2023,
+      "price": 4300000,
+      "location": "Faisalabad",
+      "condition": "New"
+    },
+    {
+      "id": 6,
+      "image": "https://media.audi.com/is/image/audi/nemo/uk/models/a4-saloon/assets2023/stage/D-Stage_Large-n.jpeg?width=1920",
+      "make": "Kia",
+      "model": "Sportage AWD",
+      "year": 2022,
+      "price": 7500000,
+      "location": "Lahore",
+      "condition": "Used"
+    },
+    {
+      "id": 7,
+      "image": "https://m.atcdn.co.uk/vms/media/w980/458d8f994ab6408a8061f6a22f291ffb.jpg",
+      "make": "Hyundai",
+      "model": "Tucson GLS",
+      "year": 2023,
+      "price": 7800000,
+      "location": "Islamabad",
+      "condition": "Used"
+    },
+    {
+      "id": 8,
+      "image": "https://media.ed.edmunds-media.com/chevrolet/silverado-1500/2025/oem/2025_chevrolet_silverado-1500_crew-cab-pickup_high-country_fq_oem_1_815.jpg",
+      "make": "Honda",
+      "model": "City 1.5 Aspire",
+      "year": 2022,
+      "price": 4600000,
+      "location": "Peshawar",
+      "condition": "Used"
+    },
+    {
+      "id": 9,
+      "image": "https://images.unsplash.com/photo-1611651338412-8403fa6e3599?q=80&w=1171&auto=format&fit=crop",
+      "make": "Toyota",
+      "model": "Corolla Altis",
+      "year": 2021,
+      "price": 5500000,
+      "location": "Karachi",
+      "condition": "Used"
+    },
+    {
+      "id": 10,
+      "image": "https://images.unsplash.com/photo-1581540222194-0def2dda95b8?q=80&w=1170&auto=format&fit=crop",
+      "make": "Daihatsu",
+      "model": "Mira ES",
+      "year": 2019,
+      "price": 1900000,
+      "location": "Multan",
+      "condition": "Used"
+    },
+    {
+      "id": 11,
+      "make": "Peugeot",
+      "model": "2008 Active",
+      "year": 2022,
+      "price": 5200000,
+      "location": "Rawalpindi",
+      "condition": "New",
+      "image": "https://www.halliwelljones.co.uk/uploads/page-images/P90468218_lowRes_the-first-ever-bmw-m.jpg",
+      "createdAt": "2025-07-16T20:01:55.016Z"
+    }
+  ],
+  "nextId": 12
+}
