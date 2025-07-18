@@ -3,6 +3,13 @@ const fs = require("fs").promises;
 const path = require("path");
 const multer = require("multer");
 
+const cors = require("cors");
+
+const app = express();           // ✅ initialize app
+
+app.use(cors());                // ✅ enable CORS
+app.use(express.json());        // ✅ enable JSON body parsing
+
 const router = express.Router();
 
 const DATA_FILE = path.resolve(__dirname, "../data.json");
