@@ -8,7 +8,7 @@ const port = 3000;
 
 app.use(cors({ origin: "*" }));
 app.use(bodyParser.json());
-app.use(pakwheelsRouter);
+app.use("/", pakwheelsRouter);
 
 // 404 handler
 app.use((_, res) => {
