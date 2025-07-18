@@ -99,29 +99,7 @@
       "price": 1900000,
       "location": "Multan",
       "condition": "Used"
-    },
-    {
-      "id": 11,
-      "make": "Peugeot",
-      "model": "2008 Active",
-      "year": 2022,
-      "price": 5200000,
-      "location": "Rawalpindi",
-      "condition": "New",
-      "image": "https://www.halliwelljones.co.uk/uploads/page-images/P90468218_lowRes_the-first-ever-bmw-m.jpg",
-      "createdAt": "2025-07-16T20:01:55.016Z"
-    },
-    {
-      "id": 12,
-      "make": "Kia",
-      "model": "Sportage",
-      "year": 2018,
-      "price": 6500000,
-      "location": "Hyderabad",
-      "condition": "Used",
-      "image": "https://www.halliwelljones.co.uk/uploads/page-images/P90468218_lowRes_the-first-ever-bmw-m.jpg",
-      "createdAt": "2025-07-17T19:41:09.203Z"
     }
   ],
-  "nextId": 13
+  "nextId": 11
 }
