@@ -110,7 +110,18 @@
       "condition": "New",
       "image": "https://www.halliwelljones.co.uk/uploads/page-images/P90468218_lowRes_the-first-ever-bmw-m.jpg",
       "createdAt": "2025-07-16T20:01:55.016Z"
+    },
+    {
+      "id": 12,
+      "make": "Kia",
+      "model": "Sportage",
+      "year": 2018,
+      "price": 6500000,
+      "location": "Hyderabad",
+      "condition": "Used",
+      "image": "https://www.halliwelljones.co.uk/uploads/page-images/P90468218_lowRes_the-first-ever-bmw-m.jpg",
+      "createdAt": "2025-07-17T19:41:09.203Z"
     }
   ],
-  "nextId": 12
+  "nextId": 13
 }
